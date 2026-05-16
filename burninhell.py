@@ -1,2 +1,2 @@
 user= input("users name : ")
-print (user):
+print (user)
